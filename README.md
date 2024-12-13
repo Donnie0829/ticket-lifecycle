@@ -50,6 +50,14 @@ Create a couple of tickets as an external user (Customer):
 
 Work your Tickets!
 
-- Close out your osTicket browser as an external user and log back in as an Agent (Help Desk Professional) -> http;//localhost/osTicket/
+- Close out your osTicket browser as an external user and log back in as an Agent (Help Desk Professional) -> http;//localhost/osTicket/scp/login.php
+
+  *Note: Log in as Jane Doe or John Doe (Agents created from post-installation)
+
+  ![image](https://github.com/user-attachments/assets/5a02c053-f06c-474b-9c43-8c0c13bc2c73)
+
+    *Note: I fyou do not see any tickets after logging in as an Agent, log back out and log back in with your admin credentials (the credentials created when installing osTicket)
+         -Go to the Admin Panel -. Agents -> Select the Agent having trouble viewing tickets -> Go to the Access tab -> Add Extended Access -> Save Changes 
+
 
 
