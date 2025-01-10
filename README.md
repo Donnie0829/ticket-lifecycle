@@ -56,8 +56,42 @@ Work your Tickets!
 
   ![image](https://github.com/user-attachments/assets/5a02c053-f06c-474b-9c43-8c0c13bc2c73)
 
-    *Note: I fyou do not see any tickets after logging in as an Agent, log back out and log back in with your admin credentials (the credentials created when installing osTicket)
-         -Go to the Admin Panel -. Agents -> Select the Agent having trouble viewing tickets -> Go to the Access tab -> Add Extended Access -> Save Changes 
+    *Note: If you do not see any tickets after logging in as an Agent, log back out and log back in with your admin credentials (the credentials created when installing osTicket)
+         -Go to the Admin Panel -. Agents -> Select the Agent having trouble viewing tickets -> Go to the Access tab -> Add Extended Access -> Save Changes
+
+
+
+  Congratulations, your troubleshoot was successful!
+
+  - Open a ticket
+  - Make sure the priority settings, and the SLA's are set on the tickets
+  - Assign the ticket to an Agent
+  - Enter a brief note in the empty response box
+  - Post reply
+      *Note: Only assign a ticket to a different if it cannot be solved by the default assigned department.
+  - Go back to 'Open Tickets' to view the ticket you made updates on
+  - Click on the ticket you recently worked and set the Ticket Status to 'Resolved' indicating something was actually done
+      *Note: Enter a brief note in the empty detail box explaining what was done
+      - Post Reply
+  - To view 'Closed' tickets, simply click 'Closed' and you should see the ticket that was resolved.
+
+
+    ![image](https://github.com/user-attachments/assets/ca2ea79d-7a04-4830-8240-95d63d1470eb)
+
+    ![image](https://github.com/user-attachments/assets/49a2610a-0351-4574-840f-f950cc391818)
+
+    ![image](https://github.com/user-attachments/assets/d8a1ec1a-667a-4f97-9f75-e5ae51b2b748)
+
+    ![image](https://github.com/user-attachments/assets/da9957c2-c048-4c2f-94a4-bc1c50f87cc0)
+
+    ![image](https://github.com/user-attachments/assets/8a0e38e5-17b6-401c-bc56-b20b82897203)
+
+
+
+    
+
+
+
 
 
 
